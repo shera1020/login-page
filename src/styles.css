@@ -2,3 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+body {
+  background-color: #ADD8E6;
+  color:black;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
