@@ -10,3 +10,10 @@ body {
   font-family: Arial;
   text-align: center;
 }
+input {
+border-radius:5px;
+border-color:1px #00008B;
+padding: 2px;
+margin: 2px;
+}
+
